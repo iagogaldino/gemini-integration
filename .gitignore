@@ -1,0 +1,35 @@
+# Dependências
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ambiente
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Arquivos de estado local
+file-statuses.json
+
