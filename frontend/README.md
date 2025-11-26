@@ -24,7 +24,7 @@ REACT_APP_API_URL=http://localhost:3000
 npm start
 ```
 
-O frontend estará disponível em `http://localhost:3000` (ou outra porta se 3000 estiver ocupada).
+O frontend estará disponível em `http://localhost:4200`.
 
 ## 📋 Funcionalidades
 

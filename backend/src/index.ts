@@ -17,6 +17,7 @@ const PORT = process.env.PORT || 3000;
 // Configuração CORS
 const corsOptions = {
   origin: [
+    'http://localhost:4200',
     'http://localhost:3000',
     'http://localhost:3001',
     'http://localhost:3002',
