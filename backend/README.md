@@ -271,3 +271,14 @@ npm start
 
 Veja mais detalhes no [README do frontend](./frontend/README.md).
 
+## Integração com n8n
+
+Este projeto pode ser integrado com o n8n para criar workflows automatizados. Veja o guia completo em [N8N_INTEGRATION.md](./N8N_INTEGRATION.md).
+
+**Exemplos de workflows prontos:**
+- Upload automático e processamento de arquivos
+- Chatbot que busca em todos os arquivos
+- Integração com Slack, Email, Google Sheets, etc.
+
+Workflows prontos para importar estão em [n8n-workflows/](./n8n-workflows/).
+
